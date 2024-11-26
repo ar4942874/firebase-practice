@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3814365939",
+    "project_id": "fir-practice-dfdac",
+    "storage_bucket": "fir-practice-dfdac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3814365939:android:09e6b85e0bf95dfb9a3586",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_practice_f15"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2sGs12dbN4wjgOmC0-lPO7lcc3LvKb9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
